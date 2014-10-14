@@ -1,0 +1,14 @@
+.DS_Store
+
+*~
+\#*\#
+
+*.out
+
+Greed-*.jar
+Logs
+
+*.html
+*.sample
+
+*.cpp.bak.*
